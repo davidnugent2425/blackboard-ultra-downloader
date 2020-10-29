@@ -24,7 +24,7 @@ Run the script
 py download_video.py
 ```
 
-Paste in the url when prompted and you're done.
+Paste url into the terminal when prompted and you're done.
 
 If you want to speed up lectures:
 
